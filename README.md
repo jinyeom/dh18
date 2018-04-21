@@ -26,7 +26,7 @@ Interestingly, we saw only a small value of correlation 0.01 between students wi
 We also used linear regression to find a pattern in repetition rate against classrooms with good conditions, bad conditions, and worse conditions.
 The regression resulted in R^2 = 0.04347751800193013, R^2 = 0.06733208652703454, and R^2 = 0.015255590064973193, respectively. Although the model isn’t reliably strong (as the R^2 values are not quite high), the general pattern of the model shows that repetition rates are, in fact, negatively correlated with good classroom conditions, and positively with bad and worse conditions. Other detailed statistics of the data can be found in our GitHub repository, listed below.
 
-###Conclusion
+### Conclusion
 We found several interesting results in our search. Firstly, we found that disabilities do not greatly impact a student’s potential to pass and do well.
 We found that classroom condition does impact the repetition rates of students
 Thirdly, we also saw that states with high literacy rates usually had low repetition rates, hence having support from family and awareness of education impacts the performance of students.
